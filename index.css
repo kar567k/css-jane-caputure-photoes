@@ -1,0 +1,70 @@
+*{
+    padding: 0;
+    margin: 0;
+   /* box-sizing: border-box;*/
+}
+.main-container{
+    max-width: 1500px;
+    width: 1500px;
+    height: 800px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    font-size: 1.5rem;
+    top: 50%;
+}
+
+.sea{
+    margin: 10px;
+}
+.waterfall{
+    margin: 30px;
+}
+.nature{
+    margin: 20px;
+}
+.mountain{
+    margin: 20px;
+}
+.model{
+    max-width: 1500px;
+    width: 1500px;
+    height: 600px;
+    background-color: whitesmoke;
+    box-sizing: border-box;
+    
+}
+p{
+    padding-top: 32px !important;
+    padding: 32px !important;
+    margin: 10px;
+}
+.a, .b , .c , input {
+    font-size: 2rem;
+    padding: 10px;
+
+}
+button{
+    display: block;
+    width: 100%;
+    font-size: 1.5rem;
+    border:none;
+    padding: 8px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+
+}
+
+
+
+
+
+
+
+    
+
+
